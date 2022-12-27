@@ -97,6 +97,7 @@ a:hover {
 .cards {
 	display: flex;
 	justify-content: center;
+/*	flex-wrap: wrap;*/
 	gap: 12px;
 	margin: auto 0;
 }
